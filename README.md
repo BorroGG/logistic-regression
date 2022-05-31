@@ -1,1 +1,1 @@
-# logistic-regression
+## Logistic regression with gradient-descent.
